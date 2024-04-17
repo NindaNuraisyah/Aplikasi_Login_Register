@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230582225024",
+    "project_id": "login-register-nindana",
+    "storage_bucket": "login-register-nindana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230582225024:android:13e9b88528ad78f5043e65",
+        "android_client_info": {
+          "package_name": "com.ninda.aplikasiloginregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeOX1HIpWy8HQj9rur-0lOIPnmHlN1SSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
